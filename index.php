@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        echo "ddd";
         echo "hello wrld";
         print "<table border=\"1\">";
 		for($y=1; $y<=12; $y++){
